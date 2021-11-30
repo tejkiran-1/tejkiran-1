@@ -5,8 +5,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tejkiran Kushwaha</h1>
 <h3 align="center">App Dev |  Web Dev  |  Tech Enthusiast</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/tejkiran-kushwaha-55103b52/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naveen" height="30" width="40" /></a>
-<a href="https://www.facebook.com/tejkirankushwaha.tejkiran/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Naveen Kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tejkiran-kushwaha-55103b52/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tejkiran kushwaha" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tejkirankushwaha.tejkiran/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tejkiran kushwaha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tejkiran_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="40" /></a>
 </p>
 </p>
@@ -15,7 +15,7 @@
 
 <p align="center">
   <em>
-    I'm Tejkiran, a <b>Third year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Jain University</b>, Bangalore</a>. <br>
+    I'm Tejkiran, a <b>Third year</b> undergraduate from <a href="https://set.jainuniversity.ac.in/"> <b>Jain University</b>, Bangalore</a>. <br>
     A budding <b> Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
