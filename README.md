@@ -31,17 +31,12 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit)
 ![Flutter](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Libraries I like working with:-
 
-![pandas](https://img.shields.io/badge/pandas-1.2.4.-green)
-![numpy](https://img.shields.io/badge/numpy-1.20.2-blue)
-![seaborn](https://img.shields.io/badge/seaborn-0.11.1-yellowgreen)
-![scikit-learn](https://img.shields.io/badge/sklearn-0.23-red)
-![matplotlib](https://img.shields.io/badge/plotly-4.14.3-lightgrey)
   
  ### Editors I like to use:-
 
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/eclipse-badge-blue.svg?logo=eclipse)
  
   
 </details>
