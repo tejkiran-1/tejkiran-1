@@ -49,11 +49,11 @@
 <details><summary>Github stats</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-004&theme=dark)](https://github.com/Naveen-004?tab=repositories)
-<a href="https://github.com/Naveen-004" >
+<a href="https://github.com/tejkiran-1" >
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naveen-004&count_private=true&show_icons=true&locale=en&theme=dark" alt="Naveen-004" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejkiran-1&count_private=true&show_icons=true&locale=en&theme=dark" alt="tejkiran-1" />
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-004&theme=dark" alt="Naveen-004"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tejkiran-1&theme=dark" alt="tejkiran-1"/>
 
 </a>
 
