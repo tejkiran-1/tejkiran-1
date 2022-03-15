@@ -10,6 +10,7 @@
 <a href="https://www.hackerrank.com/tejkiran_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="40" /></a>
 </p>
 </p>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.tejkiran-1)
 
 
