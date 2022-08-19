@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/tejkiran-kushwaha-55103b52/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tejkiran kushwaha" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tejkirankushwaha.tejkiran/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tejkiran kushwaha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tejkiran_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="40" /></a>
-<a href="https://leetcode.com/tejkiran_1/" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftejkiran-1&logo=leetcode&logoColor=yellow"/></a>
+<a href="https://leetcode.com/tejkiran_1/" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftejkiran_1&logo=leetcode&logoColor=yellow"/></a>
 </p>
 </p>
 
