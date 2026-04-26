@@ -4,14 +4,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tejkiran%20Kushwaha&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20.NET%20%2B%20Angular%20%2B%20Cloud%20%7C%20Enterprise%20Systems&descAlignY=58&descSize=18&animation=fadeIn" alt="Header Banner" />
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     ANIMATED TYPING SVG
-════════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=🚀+Full+Stack+Developer+%7C+3%2B+Years+Enterprise+Experience;⚡+.NET+Core+%7C+Angular+%7C+.NET+MAUI+%7C+Azure;🏗️+Clean+Architecture+%7C+SOLID+%7C+Design+Patterns;🤖+AI-Assisted+Development+%7C+GitHub+Copilot;🔐+Secure+APIs+%7C+JWT+%7C+RBAC+%7C+Azure+Key+Vault;📦+Enterprise+Apps+that+scale+%26+perform!" alt="Typing SVG" />
-</div>
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════
