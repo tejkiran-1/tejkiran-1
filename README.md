@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tejkiran-kushwaha/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/tejkiran1/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/tejkiran-1" target="blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.hackerrank.com/tejkiran_1" target="blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
   <a href="https://leetcode.com/tejkiran_1/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode"/></a>
