@@ -1,153 +1,82 @@
-<!-- =========================
-     HERO / HEADER
-========================== -->
+<!-- ═══════════════════════════════════════════════════════════════
+     CAPSULE RENDER — TOP WAVE BANNER
+════════════════════════════════════════════════════════════════ -->
 <div align="center">
-
-  https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=900&center=true&vCenter=true&multiline=true&width=750&height=110&lines=Tejkiran+Kushwaha;Full+Stack+Developer+%7C+.NET+%2B+Angular+%7C+Cloud+%26+Enterprise;Clean+Architecture+%7C+Performance+%7C+Security;AI-Assisted+Development+%F0%9F%A4%96
-
-  <br/>
-
-  <!-- Animated line -->
-  https://capsule-render.vercel.app/api?type=rect&color=0:00b4db,100:0083b0&height=2&section=header&reversal=false
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tejkiran%20Kushwaha&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20.NET%20%2B%20Angular%20%2B%20Cloud%20%7C%20Enterprise%20Systems&descAlignY=58&descSize=18&animation=fadeIn" alt="Header Banner" />
 </div>
 
-<!-- =========================
-     SOCIALS + QUICK CTA
-========================== -->
-<p align="center">
-  https://linkedin.com/in/tejkiran1/
-    https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-  </a>
-  tejkirankushwaha@outlook.com
-    https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white
-  </a>
-  https://leetcode.com/tejkiran_1/
-    https://img.shields.io/badge/LeetCode-111?style=for-the-badge&logo=leetcode&logoColor=FFA116
-  </a>
-  https://www.hackerrank.com/tejkiran_1
-    https://img.shields.io/badge/HackerRank-111?style=for-the-badge&logo=hackerrank&logoColor=2EC866
-  </a>
-  https://github.com/tejkiran-1
-    https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white
-  </a>
-</p>
-
-<p align="center">
-  https://komarev.com/ghpvc/?username=tejkiran-1&label=Profile%20Views&color=00b4db&style=flat
-  https://img.shields.io/badge/Experience-3%2B%20Years-00b4db?style=flat
-  https://img.shields.io/badge/Location-Bangalore%2C%20India-00b894?style=flat
-</p>
-
-<!-- =========================
-     QUICK NAV (Interactive)
-========================== -->
+<!-- ═══════════════════════════════════════════════════════════════
+     ANIMATED TYPING SVG
+════════════════════════════════════════════════════════════════ -->
 <div align="center">
-
-### ⚡ Quick Navigation
-#-about-me • #-tech-stack • #️-what-i-build • #-featured-projects • #-github-analytics • #-certifications--achievements • #-lets-connect
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=🚀+Full+Stack+Developer+%7C+3%2B+Years+Enterprise+Experience;⚡+.NET+Core+%7C+Angular+%7C+.NET+MAUI+%7C+Azure;🏗️+Clean+Architecture+%7C+SOLID+%7C+Design+Patterns;🤖+AI-Assisted+Development+%7C+GitHub+Copilot;🔐+Secure+APIs+%7C+JWT+%7C+RBAC+%7C+Azure+Key+Vault;📦+Enterprise+Apps+that+scale+%26+perform!" alt="Typing SVG" />
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     SOCIAL BADGES
+════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <a href="https://linkedin.com/in/tejkiran1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://github.com/tejkiran-1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;
+  <a href="https://www.hackerrank.com/tejkiran_1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>&nbsp;
+  <a href="https://leetcode.com/tejkiran_1/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>&nbsp;
+  <a href="mailto:tejkirankushwaha@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     STATUS BADGES ROW
+════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejkiran-1&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blueviolet?style=flat-square&logo=microsoft" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-00b894?style=flat-square&logo=google-maps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Certifications-6%20Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Certs"/>
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=flat-square&logo=handshake&logoColor=white" alt="Open To Work"/>
+</div>
+
+<br/>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ═══════════════════════════════════════════════════════════════
+     ABOUT ME — WITH TERMINAL STYLE
+════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
 
-I’m a **Full Stack Developer (3+ yrs)** building **scalable enterprise-grade systems** with **.NET + Angular + Cloud**.  
-I love **Clean Architecture**, **performance tuning**, **secure APIs**, and **AI-assisted development** to deliver faster with high quality.
+### 👨‍💻 About Me
 
-✅ Strong in: **REST APIs**, **RBAC (JWT)**, **EF Core**, **SQL Server**, **Angular (RxJS)**, **MAUI**, **Azure**  
-🎯 Goal: Build products that are **reliable, secure, and maintainable**—at enterprise scale.
+```ts
+const tejkiran = {
+  role       : "Full Stack Developer",
+  company    : "Ecolab Digital Center",
+  experience : "3+ Years (Enterprise)",
+  location   : "Bangalore, India 🇮🇳",
 
-</div>
+  stack: {
+    backend  : [".NET Core", "ASP.NET Core", "C#", "EF Core", "REST APIs"],
+    frontend : ["Angular", "TypeScript", "RxJS", "Angular Signals"],
+    mobile   : [".NET MAUI", "Xamarin", "MVVM", "Prism"],
+    cloud    : ["Microsoft Azure", "Azure DevOps", "Azure Key Vault"],
+    database : ["SQL Server", "Azure SQL", "SQLite"],
+  },
 
----
-
-## 🎯 Snapshot (At a Glance)
-
-<div align="center">
-
-- 🧩 **Role:** Software Engineer (Enterprise Systems)
-- 🏢 **Domain:** Enterprise apps • Logistics • IoT • Mobile
-- 🧠 **Strengths:** Backend design + DB performance + full-stack delivery
-- 🤖 **Workflow:** AI-assisted coding + testing + automation mindset
-- 🏗️ **Architecture:** Clean Architecture • SOLID • Patterns • DDD basics
-
-</div>
-
----
-
-## 🧠 Tech Stack
-
-<div align="center">
-
-<!-- Sleek icons (works great) -->
-https://skillicons.dev/icons?i=dotnet,cs,angular,ts,azure,sqlserver,github,git,postman,docker&perline=10
-
-</div>
-
-<details open>
-<summary><b>🔧 Backend</b></summary>
-<br/>
-
-- **ASP.NET Core** (Web API, Middleware, Filters, Auth)
-- **EF Core** (Tracking, NoTracking, Transactions, Concurrency)
-- **Architecture:** Clean Architecture • Repository • Unit of Work (where needed)
-- **Security:** JWT • Role-based authorization • Validation & error standards
-- **Patterns:** Strategy • Adapter • Factory (practical usage)
-
-</details>
-
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
-
-- **Angular** (Components, Services, Routing, Guards)
-- **RxJS** (streams, operators, async patterns)
-- **Forms:** Reactive Forms • custom validators • reusable controls
-- **API Layer:** interceptors (auth + error handling) • environment configs
-
-</details>
-
-<details open>
-<summary><b>📱 Mobile</b></summary>
-<br/>
-
-- **.NET MAUI** • MVVM • DI • Offline/Online sync patterns  
-- Sensors & integrations: **Bluetooth / NFC / Geo-location** (enterprise workflows)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud + DevOps</b></summary>
-<br/>
-
-- **Azure** (App configs, Key Vault, deployments)
-- **CI/CD** mindset: automated builds • tests • release hygiene
-- Tools: GitHub • Azure DevOps • Postman
-
-</details>
-
----
-
-## 🏗️ What I Build
-
-<div align="center">
-
-### 🧱 Enterprise-grade systems with engineering discipline:
-✅ Clean APIs • ✅ DB performance • ✅ security • ✅ observability • ✅ maintainability
-
-</div>
-
-```txt
-Client (Angular / MAUI)
-   ↓
-API Gateway / Web API (.NET)
-   ↓
-Application Layer (Use Cases)
-   ↓
-Domain (Business Rules)
-   ↓
-Infrastructure (EF Core, SQL Server, Azure, External Services)
+  principles : ["Clean Architecture", "SOLID", "DRY", "DI/IoC"],
+  superpower : "AI-Assisted Development 🤖 → Deliver faster, smarter",
+  currentlyLearning : ["System Design", "Cloud Architecture", "Security"],
+  funFact    : "Yellow Belt in MMA 🥋 + Chess Enthusiast ♟️",
+};
