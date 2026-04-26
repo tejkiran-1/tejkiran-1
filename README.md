@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&multiline=true&width=500&height=100&lines=Tejkiran+Kushwaha;Full+Stack+Developer+|+Enterprise+Systems;.NET+%7C+Angular+%7C+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&multiline=true&width=600&height=100&lines=Tejkiran+Kushwaha;Full+Stack+Developer+|+Enterprise+Systems;.NET+%7C+Angular+%7C+Cloud" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -296,7 +296,7 @@
 <div align="center">
 
 <p>
-  <a href="https://linkedin.com/in/tejkiran-kushwaha/">
+  <a href="https://linkedin.com/in/tejkiran1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/tejkiran-1">
