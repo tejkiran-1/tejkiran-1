@@ -9,7 +9,7 @@
      ⌨️  ANIMATED TYPING SVG
 ══════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&lines=🚀+Full+Stack+Developer+%7C+3%2B+Years+Enterprise+Experience;⚡+.NET+Core+%7C+Angular+%7C+.NET+MAUI+%7C+Azure+Cloud;🏗️+Clean+Architecture+%7C+SOLID+%7C+Design+Patterns;🤖+GitHub+Copilot+Certified+%7C+AI-Assisted+Dev;🌍+Multilingual+Apps+—+North+America+%26+Europe;📱+Cross-Platform+Mobile+%7C+Android+%26+iOS;🔐+Secure+REST+APIs+%7C+JWT+%7C+RBAC+%7C+Azure+Key+Vault;💡+Building+Software+that+Scales%2C+Performs+%26+Matters!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=860&height=45&lines=Full+Stack+Developer+%7C+3%2B+Years+Enterprise+Experience;.NET+Core+%7C+Angular+%7C+.NET+MAUI+%7C+Azure+Cloud;Clean+Architecture+%7C+SOLID+%7C+Design+Patterns;GitHub+Copilot+Certified+%7C+AI-Assisted+Development;Multilingual+Apps+%E2%80%94+North+America+%26+Europe;Cross-Platform+Mobile+%7C+Android+%26+iOS;Secure+REST+APIs+%7C+JWT+%7C+RBAC+%7C+Azure+Key+Vault;Building+Software+that+Scales%2C+Performs+%26+Matters!" alt="Typing SVG" />
 </div>
 
 <br/>
