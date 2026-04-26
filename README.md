@@ -554,7 +554,7 @@ const tejkiran: Developer = {
 
 | | Category | Details |
 |:---:|:---|:---|
-| 🔧 | **Building** | .NET MAUI 9 enterprise mobile apps + Angular full-stack systems |
+| 🔧 | **Building** | .Net Core, SQL Server & Angular full-stack systems + .NET MAUI Enterprise Mobile Apps |
 | 📚 | **Learning** | System Design · Cloud Architecture · Application Security |
 | 🤖 | **Exploring** | Agentic AI workflows · Copilot integrations · AI-assisted dev |
 | 🤝 | **Open To** | Full-time roles · Freelance projects · Open-source collaborations |
